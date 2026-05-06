@@ -1,0 +1,10 @@
+Province,youth_unemployment_rate,neet_rate,female_neet_rate,labour_participation_rate,tier,economic_strength,top_business_opportunity,key_programmes,severity_score,murder_rate,assault_rate,robbery_rate,sexual_offence_rate,property_crime_rate,population_millions,crime_index
+North West,58.8,52.1,57.3,43.0,Crisis,"Mining (platinum, gold, chrome)","Mining services, Solar installation, Recycling","YES, Harambee, NYDA Mahikeng",56.49,38.2,312.4,189.3,98.2,412.3,4.1,174.1
+Eastern Cape,54.3,49.8,54.1,45.2,Crisis,"Automotive, Agriculture, Tourism","Agri-processing, Auto supply SMEs, Eco-tourism","YES, Harambee, NYDA, EC TVET Colleges",52.91,52.1,387.2,201.4,112.4,389.4,6.7,199.96
+Limpopo,47.2,46.3,51.2,48.1,High Concern,"Mining, Agriculture, Kruger Tourism","Safari tourism, Avocado export, Mining services","YES, NYDA, Mining SETA",47.73,18.4,198.3,98.2,67.3,287.2,5.9,106.71
+Mpumalanga,44.3,43.5,48.3,50.1,High Concern,"Mining, Timber, Tourism","Timber value chain, Renewable energy, Tourism","YES, NYDA, Energy SETA",44.86,31.2,289.4,176.3,94.2,376.4,4.7,159.95
+Free State,43.1,42.1,47.2,49.8,High Concern,"Agriculture (Maize), Logistics","Maize processing, Road freight, Solar farms","YES, NYDA Bloemfontein, AgriSETA",43.62,44.1,398.7,198.4,118.7,421.8,2.9,202.78
+KwaZulu-Natal,42.1,41.2,46.8,52.3,High Concern,"Agriculture, Manufacturing, Port Logistics","Port logistics, Textile manufacturing, BPO","YES, Harambee Durban, NYDA",42.77,48.3,342.1,287.4,89.4,498.3,11.5,210.5
+Northern Cape,40.2,38.9,43.1,54.2,High Concern,"Mining (Diamonds), Solar, SKA Tourism","Solar farms, Astro-tourism, Desert eco-tourism","YES, NYDA Kimberley, Mining SETA",40.39,36.8,421.3,156.2,187.3,312.4,1.3,196.91
+Gauteng,38.4,35.2,39.4,58.9,Stabilise,"Finance, Tech, Retail, BPO","Tech startups, Township retail, Fintech","Harambee, YES, Microsoft AI Platform, NYDA",37.64,28.9,298.6,312.4,76.4,587.3,15.8,203.4
+Western Cape,27.3,24.6,28.1,67.4,Stabilise,"Finance, Wine Tourism, Tech, Blue Economy","AgriTourism, Blue economy, Silicon Cape tech","YES, Harambee, NYDA Cape Town, WeThinkCode",26.65,49.2,445.2,287.3,132.8,521.4,7.2,243.63
