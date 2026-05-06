@@ -701,4 +701,3 @@ def update_sector_card(sector):
     ])
 
 
-app.run(debug=False, port=8050)
